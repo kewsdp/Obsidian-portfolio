@@ -7,6 +7,7 @@ tags:
 ## Add Item
 
 <iframe src="https://blueprintue.com/render/uu8yga0t/" width="800" height="600" scrolling="no" allowfullscreen></iframe>
+Link: [BitMapBygones: Inventory AddItem posted by Kewsdp | blueprintUE | PasteBin For Unreal Engine](https://blueprintue.com/blueprint/uu8yga0t/)
 
 This function is called upon pickup of items, and will loop through the game instance's inventory array to confirm which [[Item Widget]] has been added, and add them if they are not present. I would probably replace this function with one that either adds only the last item of the array, or passes the new item enum through the interface if I were to improve it, as looping is rather unnecessary in hindsight.
 
