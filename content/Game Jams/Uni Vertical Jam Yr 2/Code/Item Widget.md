@@ -8,6 +8,8 @@ tags:
 
 <iframe src="https://blueprintue.com/render/row4eesh/" scrolling="no" width="800" height="600"  allowfullscreen></iframe>
 
+[[ItemWidgetBlueprint.png | CLICK HERE if the above Blueprint does not load!]]
+
 Upon creation of our Item Widget, we create separate media objects for use in a new Dynamic Material Instance (DMI) , made from a pre-existing Material Blueprint:
 
 ![[Bitmap material.png]]
