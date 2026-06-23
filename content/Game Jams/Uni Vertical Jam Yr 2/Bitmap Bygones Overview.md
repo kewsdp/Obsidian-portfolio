@@ -1,11 +1,11 @@
 ---
-title: Bitmap Bygones
+title: Bitmap Bygones Overview
 draft: false
 tags:
   - BitmapBygones
+  - UI
+  - Data-Driven-Gameplay
 ---
-## Overview
-
 ![[Bitmap Poster.png]]
 
 This was a submission for a University Vertical Game Jam during my second year. It was setup in correspondence with members of the Norwich Sainsbury Centre, and required teams to make a game involving the various exhibits.

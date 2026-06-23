@@ -1,0 +1,2 @@
+An Unreal Engine 5 Plugin, "a framework for building attributes, abilities and interactions that an Actor can own and trigger"
+([Official GAS documentation by Epic Games](https://dev.epicgames.com/documentation/en-us/unreal-engine/gameplay-ability-system-for-unreal-engine?application_version=5.6))

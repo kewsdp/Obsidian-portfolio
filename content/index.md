@@ -3,19 +3,19 @@ title: Welcome!
 ---
 ## Welcome
 
-This website serves as a look into my various portfolio pieces, showcasing my work in different Engines an implementation of various systems. I will also be using this to make any Blog updates regarding my currently active projects, so if you are interested, feel free to look around! 
+This website serves as a look into my various portfolio pieces, showcasing my work in different Engines and implementation of various systems. I will also be using this to make any Blog updates regarding my currently active projects, so if you are interested, feel free to look around! 
 
 ## Who am I?
 
 ![[me.JPEG|397]]
 
 I am a Games Development Graduate from Norwich University of the Arts, primarily working in Unreal Engine 5 and proficient in both Blueprints and C++. My work as a generalist programmer within various University, Game Jam and personal projects has covered a wide range of systems, including: 
-- AI Perception
-- Replication
-- Data-Driven Programming
-- The Gameplay Ability System (GAS)
+- [[tags/AI-Perception]]
+- [[tags/Replication]]
+- [[tags/Data-Driven-Gameplay]]
+- [[tags/Gameplay-Ability-System]]
 
-Within my free time I also enjoy Video and Photo editing, as well as a small amount of 3D modelling using Blender. These usually work in tandem to create anything from Game Jam trailers to entertaining Youtube videos. 
+Within my free time I also enjoy Video and Photo editing, as well as a small amount of 3D modelling using Blender. These usually work in tandem to create anything from Game Jam trailers to entertaining Youtube videos, which can be found on my [Youtube Channel](https://youtube.com/@kews7605?si=fyasKRfvRmZHIBkg)
 
 ## Education
 
